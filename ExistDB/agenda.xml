@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<agenda>
+   <contact>
+      <name> João</name>
+      <phone> (011) 123-4567</phone>
+      <email> joao@gmail.com </email>
+	  <depto> 3 </depto>
+   </contact>
+   <contact>
+      <name> Pedro</name>
+      <phone> (011) 789-4567</phone>
+      <email> pedro@gmail.com </email>
+	  <depto> 2 </depto>
+   </contact>
+   <contact>
+      <name> Maria </name>
+      <phone> (011) 456-5768 </phone>
+      <email> maria@gmail.com </email>
+	  <depto> 4 </depto>
+   </contact> 
+	<contact>
+      <name> José </name>
+      <phone> (011) 453-5768 </phone>
+      <email> maria@hotmail.com </email>
+	  <depto> 2 </depto>
+   </contact>  
+   <contact>
+      <name> Daniel </name>
+      <phone> (011) 156-5768 </phone>
+      <email> maria@gmail.com </email>
+	  <depto> 4 </depto>
+   </contact>  
+   <contact>
+      <name> Ricardo </name>
+      <phone> (082) 99956-7890 </phone>
+      <email> ricardo@gmail.com </email>
+	  <depto> 3 </depto>
+   </contact>
+	<contact>
+      <name> Eduardo </name>
+      <phone> (011) 1456-5768 </phone>
+      <email> eduardo.silva@gmail.com </email>
+	  <depto> 1 </depto>
+   </contact> 
+   <contact>
+      <name> Lucas </name>
+      <phone> (011) 456-5768 </phone>
+      <email> lucas@gmail.com </email>
+	  <depto> 2 </depto>
+   </contact> 
+   <contact>
+      <name> Vicente </name>
+      <phone> (011) 456-5768 </phone>
+      <email> vicente@gmail.com </email>
+	  <depto> 5 </depto>
+   </contact> 
+   <contact>
+      <name> Antonio </name>
+      <phone> (011) 1212-5768 </phone>
+      <email> antonio@gmail.com </email>
+	  <depto> 5 </depto>
+   </contact> 
+</agenda>
